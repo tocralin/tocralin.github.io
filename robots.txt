@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tocralin.github.io/sitemap.html.gz
+Sitemap: https://tocralin.github.io/app/sitemap.html.gz
+Sitemap: https://tocralin.github.io/assets/sitemap.html.gz
+Sitemap: https://tocralin.github.io/css/sitemap.html.gz
+Sitemap: https://tocralin.github.io/includes/sitemap.html.gz
+Sitemap: https://tocralin.github.io/item/sitemap.html.gz
+Sitemap: https://tocralin.github.io/src/sitemap.html.gz
